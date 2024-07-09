@@ -4,7 +4,7 @@ Proyecto: CONVERSOR DE MONEDAS
 Fecha de creacion: 08/07/24 -- 8:30pm
 Modificaciones:
 10:30pm termine.
-
+09/07/24 -- 10:30am: agregue el README.
  */
 package com.aluracursos.conversormonedas.principal;
 import com.aluracursos.conversormonedas.modelos.ConversorAPI;
